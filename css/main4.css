@@ -1,0 +1,24 @@
+.texte{
+    margin-left: 1065px;
+    color: black;
+    margin-top: -35px;
+}
+.terrorist{
+    color: white;
+    margin-top: 6px;
+}
+.parna{
+    border-right: 250px solid rgb(134, 189, 255);
+}
+.parna-1{
+    border-right: 180px solid rgb(123, 212, 101);
+}
+.parna-2{
+    border-right: 20px solid rgb(51, 198, 208);
+}
+.parna-3{
+    border-right: 200px solid rgb(255, 212, 120);
+}
+.parna-4{
+    border-right: 250px solid rgb(255, 98, 98);
+}
